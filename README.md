@@ -15,8 +15,8 @@ Szenvedélyesen foglalkozom modern webalkalmazások fejlesztésével, és egyete
 <img align="left" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
 <img align="left" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
 <img align="left" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
 <br/>
-#
+
+---
 
 ### Projects
